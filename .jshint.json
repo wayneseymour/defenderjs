@@ -1,0 +1,14 @@
+{
+  "curly":      false,
+  "eqeqeq":     true,
+  "immed":      true,
+  "latedef":    true,
+  "node":       true,
+  "noarg":      true,
+  "strict":     true,
+  "trailing":   true,
+  "undef":      true,
+  "unused":     true,
+  "smarttabs":  true,
+  "sub":        true
+}
