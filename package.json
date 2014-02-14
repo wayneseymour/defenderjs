@@ -1,0 +1,44 @@
+{
+  "name": "DefenderJS",
+  "version": "0.1.0",
+  "description": "Functional testing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit tests/unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "functional-testing",
+    "js"
+  ],
+  "author": "wayneseymour",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "nodeunit": "~0.8.4",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-nodemon": "~0.1.2",
+    "grunt-concurrent": "~0.4.2",
+    "grunt-chmod": "~1.0.3",
+    "grunt-node-inspector": "~0.1.2",
+    "protractor": "~0.17.0",
+    "grunt-protractor-webdriver": "~0.1.2",
+    "grunt-spawn": "~1.1.52",
+    "grunt-jscs-checker": "~0.3.2",
+    "nightwatch": "~0.2.8"
+  },
+  "dependencies": {
+    "webdriverjs": "~1.3.1",
+    "commander": "~2.1.0"
+  }
+}
